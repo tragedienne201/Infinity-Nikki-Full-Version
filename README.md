@@ -266,3 +266,6 @@ This repository serves as the official landing page for Infinity Nikki. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Infinity Nikki today!**
+
+---
+**Last updated:** 2026-09-11 18:56:11 UTC
